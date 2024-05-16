@@ -1,0 +1,3 @@
+C:\krill\MP3MusicPlayer\src\assets\Full Moon Full Life.mp3
+C:\krill\MP3MusicPlayer\src\assets\Aria of the Soul -Reload-.mp3
+C:\krill\MP3MusicPlayer\src\assets\Want To Be Close -Reload-.mp3
