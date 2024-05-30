@@ -16,6 +16,9 @@ public class Song {
 
     public Song(String filePath){
         this.filePath = filePath;
+        this.songTitle = filePath;
+        this.songArtist = "Unknown artist";
+
         try{
             mp3File = new Mp3File(filePath);
             frameRatePerMilliseconds = (double) mp3File.getFrameCount() / mp3File.getLengthInMilliseconds();
